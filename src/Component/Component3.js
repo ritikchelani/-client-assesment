@@ -76,7 +76,7 @@ const Component3 = () => {
                   width: "300px",
                 }}
               >
-                <h2 style={{ margin: "0" }}>{"title"}</h2>
+                <h2 style={{ margin: "0" }}>{"Component 3"}</h2>
 
                 {addStatus === "add" || isUpdate ? (
                   <>

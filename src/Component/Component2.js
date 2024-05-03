@@ -65,7 +65,7 @@ const Component2 = () => {
       boxShadow: '0 2px 4px rgba(0, 0, 0, 0.1)',
       width: '300px',
       }}>
-      <h2 style={{ margin: '0' }}>{"title"}</h2>
+      <h2 style={{ margin: '0' }}>{"Component 2"}</h2>
       
      {addStatus === "add" || isUpdate ? <> <label>Content : </label>
       <input 
